@@ -1,0 +1,8 @@
+.DonarTest{
+    background-color: #a82b1e;
+    display: flex;
+    justify-content: center;
+    color:#fff;
+    transition: all 0.2s ease-in-out;
+    border-radius: 7%;
+}

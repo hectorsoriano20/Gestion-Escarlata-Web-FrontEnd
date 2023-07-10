@@ -1,0 +1,26 @@
+7/1/2023
+
+h1 y p de Intersting se debe renderisar, estan muy pegados de la image
+
+
+
+
+<div className="first-des">
+                <div className="des-text">
+                    <h2>Los niños son</h2>
+
+                    <p>La donación de sangre es un acto solidario que 
+                    puede salvar vidas, incluyendo la de los niños. 
+                    Los niños pueden necesitar transfusiones de sangre 
+                    por diversas razones, como enfermedades graves, 
+                    cirugías o accidentes. Aquí te dejo una breve reseña de cómo la dona
+                    ción de sangre puede ayudar a los niños.
+                    </p>
+                </div>
+                
+                <div className="image">
+                    <img alt="img" src={v1Image}/>
+                    <img alt="img" src={v2Image}/>
+                </div>
+
+            </div> */

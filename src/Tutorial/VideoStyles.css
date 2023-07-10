@@ -1,0 +1,17 @@
+.STuto{
+    width: 150%;
+    height: 150%;
+    position: center;
+    margin: 10em auto; 
+
+}
+.back{
+    background-color: tomato;
+}
+.Th1{
+    margin: 5em; 
+    background-color: #a82b1e;
+    color: #fff;
+    border-radius: 50px;
+    transition: all 0.2s ease-in-out;
+}
